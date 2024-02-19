@@ -1,0 +1,5 @@
+# Ignore the entire .idea directory
+.idea/
+
+# Ignore the output directory
+out/
