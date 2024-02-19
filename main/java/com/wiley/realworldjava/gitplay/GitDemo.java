@@ -1,4 +1,4 @@
-package com.wiley.readlworldjava.gitplay;
+package com.wiley.realworldjava.gitplay;
 
 public class GitDemo {
     private String description;
