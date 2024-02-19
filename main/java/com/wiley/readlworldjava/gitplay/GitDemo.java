@@ -7,14 +7,14 @@ public class GitDemo {
       this.description = description;
    }
 
-   public void displayMessage() {
-        System.out.println("Message: " + description);
+   public void displayDescription() {
+        System.out.println("Description: " + description);
     }
 
     public static void main(String[] args) {
        GitDemo demo = new GitDemo("Hello, Git!");
 
-        // Display the initial message
-        demo.displayMessage();
+        // Display the initial description
+        demo.displayDescription();
     }
 }
