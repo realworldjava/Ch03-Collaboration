@@ -1,9 +1,12 @@
 # Ch03-Collaboration
-* To install Git, head over https://git-scm.com/downloads.
-  You will find installation instructions for Windows, MacOS, and Linux.
-* Getting started with Jira on the cloud: https://www.atlassian.com/software/jira.
+## Version Control with Git
+1. To install Git, head over to the [Git documentation page](https://git-scm.com/downloads).
+2. Complete Git Reference documentation - https://git-scm.com/docs
+   You will find installation instructions for Windows, MacOS, and Linux.
+3. [Original Gitflow article](https://nvie.com/posts/a-successful-git-branching-model/) by Vincent Driessen - 
+## Using Jira for Enterprise Process Collaboration
+1. Getting started with Jira on the cloud: https://www.atlassian.com/software/jira.
+1. Jira documentation - https://www.atlassian.com/software/jira
+## Working with Confluence
 * Create your own cloud version of Confluence:  https://www.atlassian.com/software/confluence.
-* Complete Git Reference documentation - https://git-scm.com/docs
-* Original Gitflow article by Vincent Driessen - https://nvie.com/posts/a-successful-git-branching-model/
-* Jira documentation - https://www.atlassian.com/software/jira
 * Confluence documentation - https://www.atlassian.com/software/confluence
