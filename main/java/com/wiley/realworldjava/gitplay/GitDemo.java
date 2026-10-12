@@ -16,5 +16,7 @@ public class GitDemo {
 
         // Display the initial description
         demo.displayDescription();
+        demo.description = "Version control with Git is fun and easy.";
+        demo.displayDescription();
     }
 }
